@@ -1,0 +1,71 @@
+html -> Hyper Text Markup Language
+use of html-> to create a static structure of website or Webpages(Webpage  design) 
+html file save extension->.html /.htm
+founder of html-> Tim berner's lee ---->1991
+
+html1----> 1991
+html2---->1995
+html3---->(january 1997)
+html4------->(December 1997)
+html5---->2014--5.2---->2017
+
+introduceed--->1993--->first website--->https://info.cern.ch
+
+html Structure
+
+<html>
+    <head>
+        <title>
+
+        </title>
+    </head>
+    <body>
+
+    </body>
+</html>
+
+
+HTML Tags 
+ 
+As told earlier, HTML is a markup language and makes use of various tags to format the content. These tags are enclosed within angle braces <Tag Name>. Except few tags, most of the tags have their corresponding closing tags. For example, <html> has its closing tag</html> and <body> tag has its closing tag </body> tag etc. 
+Above example of HTML document uses the following tags: 
+
+Tag              	Description 
+<!DOCTYPE...> 	     This tag defines the document type and HTML version. 
+<html> 	             This tag encloses the complete HTML document and mainly comprises of document header which is represented by <head>...</head> and document body which is represented by <body>...</body> tags. 
+<head> 	             This tag represents the document's header which can keep other HTML tags like <title>, <link> etc. 
+<title> 	         The <title> tag is used inside the <head> tag to mention the document title. 
+<body> 	             This tag represents the document's body which keeps other HTML tags like <h1>, <div>, <p> etc. 
+<h1> 	             This tag represents the heading. 
+<p> 	             This tag represents a paragraph. 
+
+The <!DOCTYPE> Declaration 
+ 
+The <!DOCTYPE> declaration tag is used by the web browser to understand the version of the HTML used in the document. Current version of HTML is 5 and it makes use of the following declaration: 
+<!DOCTYPE html> 
+There are many other declaration types which can be used in HTML document depending on what version of HTML is being used. We will see more details on this while discussing <!DOCTYPE...> tag along with other HTML tags. 
+
+Heading Tags 
+ 
+Any document starts with a heading. You can use different sizes for your headings. HTML also has six levels of headings, which use the elements <h1>, <h2>, <h3>, <h4>, <h5>, and <h6>. While displaying any heading, browser adds one line before and one line after that heading. 
+Example 
+<!DOCTYPE html> 
+<html> 
+<head> 
+<title>Heading Example</title> 
+</head> 
+<body> 
+<h1>This is heading 1</h1> 
+<h2>This is heading 2</h2> 
+<h3>This is heading 3</h3> 
+<h4>This is heading 4</h4> 
+<h5>This is heading 5</h5> <h6>This is heading 6</h6> 
+</body> 
+</html> 
+This will produce the following result: 
+
+for comment:<!--    -->
+body background color= body bgcolor
+font tag:size minimum 1,maximum 7,color,face
+  
+
